@@ -1,5 +1,6 @@
 Flask
 scikit-learn
+streamlit
 pandas
 numpy
 matplotlib
